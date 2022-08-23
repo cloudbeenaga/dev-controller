@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "cloudbeenaga-dev-controller"
+description: "CloudBees CI configuration bundle for the cloudbeenaga dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/cloudbeenaga/dev-controller"
+parent: "base"
